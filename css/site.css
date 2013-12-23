@@ -1,0 +1,9 @@
+body {
+	font-family: sans-serif;
+}
+
+.content {
+  text-align: justify;
+  width: 42em;
+  margin: 3em auto 2em auto;
+}
